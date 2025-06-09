@@ -3,4 +3,4 @@ The source code for Movia - A simple movie browser written in React.js and Tailw
 
 ![Screenshot](https://i.postimg.cc/vZdwZF9J/Screenshot-2025-06-10-000837.png)
 
-![Screenshot](https://www.imghippo.com/i/bbj6507So.png)
+![Screenshot](https://i.ibb.co/4wc3F6Pd/Screenshot-2025-06-10-002930.png)
